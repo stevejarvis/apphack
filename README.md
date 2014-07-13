@@ -1,4 +1,6 @@
-apphack
-=======
+# AppHack -- Hacking Hello World
+This is an exercise to demonstrate how an attacker could edit a compiled
+binary to effect the behavoir of a piece of software.
 
-Program used to demonstrate how an attacker could edit a binary and modify an application
+For details and the walkthrough, see 
+[f.nerdster.org](https://f.nerdster.org/log/hacking-compiled-application)
